@@ -1,13 +1,15 @@
 // import logo from './logo.svg';
-// import './App.css';
+import './App.css';
 import Navbar from './components/navbar/navbar.js';
 import Imagemap from './components/imagemap/imagemap.js'
 
 function App() {
   return (
-    <div>
+    <div className='app'>
       <Navbar></Navbar>
-      <Imagemap></Imagemap>
+      <div className='sections'>
+        <Imagemap></Imagemap>
+      </div>
     </div>
   );
 }
