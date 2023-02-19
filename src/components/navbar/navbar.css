@@ -6,5 +6,6 @@
     position: fixed;
     top: 0;
     text-align: center;
-    
+    align-items: center;
+    justify-content: space-between;
 }
