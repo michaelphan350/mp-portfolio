@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mp-portfolio/static/css/main.be01bfd6.css",
-    "main.js": "/mp-portfolio/static/js/main.ef0e1dc2.js",
+    "main.css": "/mp-portfolio/static/css/main.6579b79c.css",
+    "main.js": "/mp-portfolio/static/js/main.015db2a6.js",
     "static/js/787.4b70dfdb.chunk.js": "/mp-portfolio/static/js/787.4b70dfdb.chunk.js",
     "static/media/wiimote-white.jpeg": "/mp-portfolio/static/media/wiimote-white.7398db7cd4a286b0db00.jpeg",
     "index.html": "/mp-portfolio/index.html",
-    "main.be01bfd6.css.map": "/mp-portfolio/static/css/main.be01bfd6.css.map",
-    "main.ef0e1dc2.js.map": "/mp-portfolio/static/js/main.ef0e1dc2.js.map",
+    "main.6579b79c.css.map": "/mp-portfolio/static/css/main.6579b79c.css.map",
+    "main.015db2a6.js.map": "/mp-portfolio/static/js/main.015db2a6.js.map",
     "787.4b70dfdb.chunk.js.map": "/mp-portfolio/static/js/787.4b70dfdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be01bfd6.css",
-    "static/js/main.ef0e1dc2.js"
+    "static/css/main.6579b79c.css",
+    "static/js/main.015db2a6.js"
   ]
 }
